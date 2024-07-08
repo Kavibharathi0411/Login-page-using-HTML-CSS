@@ -1,0 +1,14 @@
+label{
+    display:block;
+}
+input[type="email"],
+input[type="text"],
+textarea{
+
+}
+.form{
+    border: 10px solid rgb(192, 8, 192);
+    width:20%;
+    padding-left: 50px;
+    padding-top: 10px;
+}
